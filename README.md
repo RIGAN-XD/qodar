@@ -17,7 +17,7 @@ $ pip install rich
 
 $ pip install stdiomask 
 
-$ https://github.com/RIGAN-XD/qodar
+$ git clone https://github.com/RIGAN-XD/qodar
 
 $ cd qodar
 
