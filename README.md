@@ -21,4 +21,6 @@ $ git clone https://github.com/RIGAN-XD/qodar
 
 $ cd qodar
 
-$ python sc-ku.py
+$ git pull
+
+$ python qodar.py
