@@ -1,5 +1,4 @@
 # qodar
-Update sc Lema ter silakan di coba 
 
 $ pkg update && pkg upgrade
 
