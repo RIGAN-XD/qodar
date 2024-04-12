@@ -12,5 +12,5 @@ def animasi(berjalan):
         
 if __name__=="__main__":
         os.system('git pull')
-        animasi(f'\n{xxx}   ({h}ANJING SEMUAk{xxx})')
+        animasi(f'\n{xxx}   ({h}ANJING SEMUA{xxx})')
         waktu(3)
